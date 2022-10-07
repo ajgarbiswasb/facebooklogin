@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.facebook_content h1{
+    font-size: 60px;
+    color: #1877f2;
+    font-weight: bolder;
+    margin-left: 50px;
+}
+.facebook_content p{
+    font-size: 25px;
+    font-weight: 600;
+    color: #040404;
+    margin-left: 50px;
+}
+.login{
+    height: 350px;
+    width: 400px;
+    background: #fff;
+    box-shadow: 0 0 14px 0px #979797;
+    text-align: center;
+}
+.fp{
+    text-decoration: none;
+}
+.fp:hover{
+   text-decoration: underline;
+}
+.login input{
+    display: block;
+    height: 50px;
+    width: 360px;
+    padding: 5px;
+    margin: 10px 0;
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;
+    font-size: 17px;
+}
+.log_in{
+    font-size: 25px;
+    color: #fff;
+    font-weight: bold;
+    height: 50px;
+}
+.CNA{
+    background-color: #36a420;
+    color: #fff;
+    font-weight: bold;
+    height: 50px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    width: 60%;
+}
+.CNA:hover{
+    background-color: #4811ca;
+    color: #fff; 
+}
